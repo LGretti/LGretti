@@ -1,6 +1,6 @@
 # 💻 Olá, seja bem vindo ao meu perfil
 
-Me chamo Lucas da Silva Gretti, tenho 22 anos e sou desenvolvedor em tempo integral. Trabalho principalmente com Delphi XE7 e SQL Server.
+Me chamo Lucas da Silva Gretti, tenho 23 anos e sou desenvolvedor em tempo integral. Trabalho principalmente com Delphi XE7 e SQL Server.
 
 
 # 🖥️ Estou trabalhando com estas tecnologias:
