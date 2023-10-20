@@ -1,16 +1,24 @@
-# 💻 Olá, seja bem vindo ao meu perfil
+# Olá pessoal 👋
 
-Me chamo Lucas da Silva Gretti, tenho 23 anos e sou desenvolvedor em tempo integral. Trabalho principalmente com Delphi XE7 e SQL Server.
+Um programador apaixonado pela área de desenvolvimento. Buscando estar atualizado sobre as minhas tecnologias favoritas, sendo C# a principal delas. Gosto de criar softwares pequenos para manter a prática com as linguagens que estou estudando ou potencializando, buscando novas formas melhores de resolver problemas.
 
-
-# 🖥️ Estou trabalhando com estas tecnologias:
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Delphi](https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-# 📝 Estou estudando estas tecnologias:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)	![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-
-# 📃 Estou interessado em:
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+Estou desenvolvendo um projeto para leitura e conferência de registro na receita de Notas Fiscais, você pode ver ou contribuir com o projeto através [neste link.](https://github.com/LGretti/NotaSys)
 
 
-![Snake animation](https://github.com/LGretti/LGretti/blob/output/github-contribution-grid-snake.svg)
+## 🖥️ Estou trabalhando com estas tecnologias:
+![Delphi](https://img.shields.io/badge/Embarcadero-Delphi-red?logo=delphi&logoColor=red&labelColor=white&color=gray)
+![Asp.Net](https://img.shields.io/badge/Asp_.NET_Core-8A2BE2?logo=csharp&logoColor=8A2BE2&labelColor=white)
+![SQLServer](https://img.shields.io/badge/SQL_Server-white?logo=microsoftsqlserver&logoColor=red&labelColor=white&color=red)
+![Azure](https://img.shields.io/badge/Azure-white?logo=microsoftazure&logoColor=white&labelColor=blue&color=blue)
+
+
+## 📝 Estou estudando estas tecnologias:
+![JS](https://img.shields.io/badge/Javascript-white?logo=javascript&logoColor=yellow&labelColor=gray&color=gray)
+![NodeJS](https://img.shields.io/badge/NodeJS-white?logo=nodedotjs&logoColor=3c873a&labelColor=white&color=gray)
+![ReactJS](https://img.shields.io/badge/React-white?logo=react&logoColor=blue&labelColor=white&color=gray)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=MongoDB&logoColor=green&labelColor=white&color=gray)
+
+
+## 📃 Gosto também de:
+![Linux](https://img.shields.io/badge/Linux-green?logo=linux&logoColor=black&labelColor=white&color=gray)
+![Arduino](https://img.shields.io/badge/Arduino-00979d?logo=arduino&logoColor=00979d&labelColor=white&color=gray)
