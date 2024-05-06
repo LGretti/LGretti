@@ -1,6 +1,8 @@
-# Olá pessoal 👋
-
-Um programador apaixonado pela área de desenvolvimento. Buscando estar atualizado sobre as minhas tecnologias favoritas, sendo C# a principal delas. Gosto de criar softwares pequenos para manter a prática com as linguagens que estou estudando ou potencializando, buscando novas formas melhores de resolver problemas.
+# Olá 👋
+ 
+ 
+Trabalhei com análise e desenvolvimento de processos e rotinas automatizadas que ajustam grandes massas de dados, reduzindo esforço e otimizando o processo de usuários.
+Minhas especialidades incluem C# ASP.NET, Javascript, React, SQL Server, Delphi XE7, Delphi 6.
 
 Estou desenvolvendo um projeto para leitura e conferência de registro na receita de Notas Fiscais, você pode ver ou contribuir com o projeto através [neste link.](https://github.com/LGretti/NotaSys)
 
