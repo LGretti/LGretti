@@ -7,7 +7,7 @@ Estou desenvolvendo um projeto para leitura e conferência de registro na receit
 
 ## 🖥️ Estou trabalhando com estas tecnologias:
 ![Delphi](https://img.shields.io/badge/Delphi-red?style=flat-square&logo=delphi&logoColor=red&labelColor=white&color=gray)
-![C#](ttps://img.shields.io/badge/C%23-grey?style=flat-square&logo=c%23&logoColor=%23B15CB6&logoSize=auto&labelColor=white&color=grey)
+![Csharp](ttps://img.shields.io/badge/C%23-grey?style=flat-square&logo=c%23&logoColor=%23B15CB6&logoSize=auto&labelColor=white&color=grey)
 ![Asp.Net](https://img.shields.io/badge/Asp_.NET_Core-8A2BE2?style=flat-square&logo=csharp&logoColor=8A2BE2&labelColor=white)
 ![SQLServer](https://img.shields.io/badge/SQL_Server-white?style=flat-square&logo=microsoftsqlserver&logoColor=red&labelColor=white&color=grey)
 ![Azure](https://img.shields.io/badge/Azure-white?style=flat-square&logo=microsoftazure&logoColor=white&labelColor=blue&color=blue)
