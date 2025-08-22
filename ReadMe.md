@@ -1,6 +1,6 @@
-# Olá 👋🏼 meu nome é Lucas
-`Sou um Analista de Sistemas com experiência de desenvolvimento em sistemas Desktop e Web utilizando as tecnologias C#/.NET e Delphi, com banco de dados relacional SQL Server.`
-`Também possuo experiência no mercado Financeiro e Contábil com trabalhos em implantação de ERP em Administradoras de Consórcios.`
+# Olá 👋🏼
+Sou um analista de sistemas e negocial especializado em Consórcios
+
 
 ---
 ### Trabalho com essas tecnologias:
